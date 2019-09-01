@@ -1,1 +1,1 @@
-# Fastai-Projects (Pytorch)
+# Fastai-Projects (PyTorch)
